@@ -1,4 +1,4 @@
-# Introductory Programming Using Python (Aug 2020)
+# Introductory Programming Using Python (Sep 2020)
 
 Course materials are contained in this repository
 
